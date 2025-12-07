@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
+  <diagram name="Страница-1" id="A8f2p5Mqdq2FNxcoND4-">
+    <mxGraphModel dx="1780" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-1" parent="1" style="ellipse;fillColor=strokeColor;comic=0;" value="" vertex="1">
+          <mxGeometry height="14" width="14" x="636" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-2" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;comic=0;" value="Created" vertex="1">
+          <mxGeometry height="40" width="73" x="606" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-3" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;comic=0;" value="WaitingForPayment" vertex="1">
+          <mxGeometry height="40" width="154" x="566" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-4" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;comic=0;" value="Cancelled" vertex="1">
+          <mxGeometry height="40" width="86" x="945" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;comic=0;" value="Заявка создана&#xa;        Указан клиент и стоимость" vertex="1">
+          <mxGeometry height="152" width="300" x="20" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-6" parent="1" style="align=left;spacingLeft=4;comic=0;" value="Заявка создана&#xa;        Указан клиент и стоимость" vertex="1">
+          <mxGeometry height="102" width="230" x="55" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-7" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;comic=0;" value="Paid" vertex="1">
+          <mxGeometry height="40" width="46" x="582" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;comic=0;" value="Ожидание оплаты&#xa;        Установлен срок (5 минут)&#xa;        Таймер активен&#xa;        Автоматическая отмена при истечении срока" vertex="1">
+          <mxGeometry height="200" width="300" x="190" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-9" parent="1" style="align=left;spacingLeft=4;comic=0;" value="Ожидание оплаты&#xa;        Установлен срок (5 минут)&#xa;        Таймер активен&#xa;        Автоматическая отмена при истечении срока" vertex="1">
+          <mxGeometry height="150" width="230" x="225" y="497" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-10" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;comic=0;" value="Confirmed" vertex="1">
+          <mxGeometry height="40" width="91" x="1159" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;comic=0;" value="Платеж получен" vertex="1">
+          <mxGeometry height="128" width="220" x="438" y="746" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-12" parent="1" style="align=left;spacingLeft=4;comic=0;" value="Платеж получен" vertex="1">
+          <mxGeometry height="54" width="150" x="473" y="783" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-13" parent="1" style="ellipse;shape=endState;fillColor=strokeColor;comic=0;" value="" vertex="1">
+          <mxGeometry height="14" width="14" x="1051" y="1053" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;comic=0;" value="После подтверждения отмена невозможна.&#xa;        Обратитесь к администратору." vertex="1">
+          <mxGeometry height="176" width="300" x="1149" y="972" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-15" parent="1" style="align=left;spacingLeft=4;comic=0;" value="После подтверждения отмена невозможна.&#xa;        Обратитесь к администратору." vertex="1">
+          <mxGeometry height="126" width="230" x="1184" y="997" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;comic=0;" value="Финальное состояние (отмена)" vertex="1">
+          <mxGeometry height="128" width="300" x="678" y="746" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-17" parent="1" style="align=left;spacingLeft=4;comic=0;" value="Финальное состояние (отмена)" vertex="1">
+          <mxGeometry height="78" width="230" x="713" y="771" as="geometry" />
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-18" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-1" style="curved=1;startArrow=none;;exitX=0.48;exitY=1;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-2" value="Создание заявки">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-19" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-2" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-3" value="SendToClient()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-20" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-2" style="curved=0;startArrow=none;;exitX=1;exitY=0.62;entryX=0.68;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-4" value="CancelRequest()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1066" y="185" />
+              <mxPoint x="1066" y="472" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-21" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-2" style="curved=0;startArrow=none;;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-22" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-3" style="curved=0;startArrow=none;;exitX=0.43;exitY=1;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-7" value="MakePayment() [срок не истек]">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-23" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-3" style="curved=0;startArrow=none;;exitX=1;exitY=0.92;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-4" value="CancelRequest()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="988" y="374" />
+              <mxPoint x="988" y="472" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-24" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-3" style="curved=0;startArrow=none;;exitX=0.84;exitY=1;entryX=0.15;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-4" value="Срок оплаты истек">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="374" />
+              <mxPoint x="840" y="472" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-25" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-3" style="curved=0;startArrow=none;;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-26" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-7" style="curved=0;startArrow=none;;exitX=1;exitY=0.6;entryX=0.49;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-10" value="ConfirmBooking()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1204" y="672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-27" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-7" style="curved=0;startArrow=none;;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="548" y="672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-28" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-10" style="curved=0;startArrow=none;;exitX=0.2;exitY=1;entryX=0.86;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-13" value="Финальное состояние (успех)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1118" y="874" />
+              <mxPoint x="1118" y="972" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-29" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-10" style="curved=0;startArrow=none;;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1299" y="874" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-30" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-4" style="curved=0;startArrow=none;;exitX=0.52;exitY=1;entryX=0.18;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="998" y="672" />
+              <mxPoint x="998" y="972" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juu4RfCuQjZqcoX2ehWZ-31" edge="1" parent="1" source="juu4RfCuQjZqcoX2ehWZ-4" style="curved=0;startArrow=none;;exitX=0.13;exitY=1;entryX=0.5;entryY=0;rounded=0;comic=0;" target="juu4RfCuQjZqcoX2ehWZ-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="828" y="672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

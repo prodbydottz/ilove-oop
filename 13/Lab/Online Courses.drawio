@@ -1,0 +1,232 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
+  <diagram name="Страница-1" id="bUnU7QZWCvmt7bBiVryq">
+    <mxGraphModel dx="3783" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Система управления онлайн-курсами" vertex="1">
+          <mxGeometry height="2164" width="587" x="926" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Студент" vertex="1">
+          <mxGeometry height="54" width="119" x="757" y="339" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Преподаватель" vertex="1">
+          <mxGeometry height="54" width="172" x="390" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Администратор" vertex="1">
+          <mxGeometry height="54" width="174" x="20" y="1641" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Регистрация и авторизация" vertex="1">
+          <mxGeometry height="78" width="260" x="951" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Подтверждение почты" vertex="1">
+          <mxGeometry height="54" width="227" x="1261" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Просмотр курсов" vertex="1">
+          <mxGeometry height="54" width="186" x="988" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Запись на курс" vertex="1">
+          <mxGeometry height="54" width="170" x="996" y="287" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Прохождение тестов" vertex="1">
+          <mxGeometry height="54" width="214" x="974" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Отслеживание прогресса" vertex="1">
+          <mxGeometry height="54" width="248" x="957" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Оставление отзывов" vertex="1">
+          <mxGeometry height="54" width="211" x="976" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Создание курса" vertex="1">
+          <mxGeometry height="54" width="176" x="993" y="703" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Редактирование курса" vertex="1">
+          <mxGeometry height="54" width="227" x="968" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Добавление материалов" vertex="1">
+          <mxGeometry height="54" width="242" x="960" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Создание тестов" vertex="1">
+          <mxGeometry height="54" width="182" x="990" y="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Просмотр статистики студентов" vertex="1">
+          <mxGeometry height="78" width="260" x="951" y="1119" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Модерация отзывов" vertex="1">
+          <mxGeometry height="54" width="206" x="978" y="1247" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Управление учетными записями" vertex="1">
+          <mxGeometry height="78" width="260" x="951" y="1351" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Создание пользователей" vertex="1">
+          <mxGeometry height="54" width="244" x="959" y="1479" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Удаление пользователей" vertex="1">
+          <mxGeometry height="54" width="246" x="958" y="1583" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Блокировка пользователей" vertex="1">
+          <mxGeometry height="78" width="260" x="951" y="1687" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Управление категориями курсов" vertex="1">
+          <mxGeometry height="78" width="260" x="951" y="1815" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Просмотр аналитики системы" vertex="1">
+          <mxGeometry height="78" width="260" x="951" y="1943" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Анализ популярности курсов" vertex="1">
+          <mxGeometry height="78" width="260" x="951" y="2071" as="geometry" />
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-25" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-26" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-27" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-28" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-29" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-30" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="522" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-31" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="901" y="626" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-32" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-33" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-34" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-35" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1042" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-36" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-37" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1274" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-38" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-39" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="1506" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-40" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="1610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-41" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-21" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="1726" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-42" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-22" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="1854" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-43" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="1982" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-44" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-24" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="2110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-45" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-2" value="наследует функции">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfQVFeS_2XgrLoQkGVeV-46" edge="1" parent="1" source="EfQVFeS_2XgrLoQkGVeV-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="EfQVFeS_2XgrLoQkGVeV-3" value="наследует функции">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="938" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
